@@ -1,0 +1,15 @@
+body{
+    background-color: #343434;
+}
+.post-container{
+    background-color: #f7f7f7;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.post-card{
+    background-color: #a2a7a5;
+    box-shadow: 2px 4px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin-top: 15px;
+}
